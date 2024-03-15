@@ -8,8 +8,9 @@ We are non-profit
 **Our projects:**
 - [Portuguese Non-profits list](https://github.com/Tiny-Brother/portuguese-NGOs)
 - World elections calendar
-- Governament contract data and analysis:
-  - Portugal
+- Governament watch :
+  - Portugalcontract data and analysis
+  - Corruption cases registry
 - Fix my city Portugal
 - Alaveteli for Portugal
-- Corruption cases registry
+
